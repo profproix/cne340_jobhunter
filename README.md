@@ -1,5 +1,5 @@
-CNE340 Winter2024 - JobHunter Assignment
-Requirements:
+# CNE340 Winter2024 - Job Hunter Assignment
+## Requirements:
 
     Project Fork
     GitHub Commits
