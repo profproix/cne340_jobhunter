@@ -1,3 +1,7 @@
+# CNE 340 Fall 2024
+# Student name: Van Vuong
+# Project: Job Hunter
+
 import datetime as dt
 import mysql.connector
 import time
