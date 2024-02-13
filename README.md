@@ -30,4 +30,4 @@
 
 ## Special Thanks
 
-Thank you ** Ixius Procopios ** for the initial code and all the guidance for this project.
+Thank you **Ixius Procopios** for the initial code and all the guidance for this project.
