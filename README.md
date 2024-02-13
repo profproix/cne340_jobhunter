@@ -1,4 +1,13 @@
-# CNE340 Winter2024 - Job Hunter Assignment
+# CNE340 Winter2024 - Job Hunter Project
+
+## Objectives
+
+   * Using python to complete the following tasks:
+     - Connect to MySql on WAMP Server
+     - Create a database
+     - Grab new jobs from a website, parses JSON code and inserts the data into a list of dictionaries do not need to edit
+     - Import to database
+     - Perform Query commands
 
 ## Requirements:
 
@@ -18,3 +27,7 @@
        - Avoids duplicates
        - Notify user of matches
        - Extra Credit: if it deletes jobs over 14 days old
+
+## Special Thanks
+
+Thank you Ixius Procopios for the initial code and all the guidance for this project.
