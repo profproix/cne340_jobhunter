@@ -1,6 +1,5 @@
 CNE340 Winter2024 - JobHunter Assignment
 Requirements:
-
     Project Fork
     GitHub Commits
     CREATE table
